@@ -9,14 +9,6 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> </a> <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204089788-aba7a068-4a5d-4d39-bf2b-61bc274aee85.png" alt="html5" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204089931-719b4df7-69c9-4900-8097-19631d9f762a.png" alt="css3" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090521-aecfb95f-937a-4e93-87cd-f356c4b96953.png" alt="Tailwind" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090263-7a9e9a6c-deea-41ef-af6c-0bb397c4aff7.png" alt="JavaScript" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090330-309000f8-58dd-43bf-93c2-712723f69150.svg" alt="php" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090398-bd9d5eb5-884b-47e1-88f5-b747478e5107.png" alt="MySql" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </p>
 
-<h2 align="center">Reach me out on:</h2>
-<p align="center">
-<a href="mailto: issammez44@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204092020-e5e602c1-323b-4a4d-a105-5d162ce12028.png" alt="Gmail" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204092222-285d720e-e349-48d3-9c64-63a06cd41b11.png" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">My github stats:</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
@@ -29,3 +21,10 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
  <img src="https://activity-graph.herokuapp.com/graph?username=MEZ901&theme=redical">
 </p> 
 
+<h2 align="center">Reach me out on:</h2>
+<p align="center">
+<a href="mailto: issammez44@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204094054-e8990ae2-4344-4b64-a497-9221e7ba590e.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mez901/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204093907-47de4088-b6ef-4232-bcc4-cd450ec76a51.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/issam.mezgueldi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204093570-d3bf251f-7551-4ba0-8fca-e7f3134caf6f.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/issam.mez.58/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112888267/204094004-60c01ea4-020a-4e47-acf6-69154ded415a.svg" alt="facebook" height="30" width="40" /></a>
+</p>
