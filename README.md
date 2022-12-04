@@ -2,6 +2,13 @@
 
 ![Cover](https://user-images.githubusercontent.com/112888267/204088153-8e61fc81-5dd0-45cc-8ac9-296bb50825ec.png)
 
+```javascript
+if (location.href == "https://github.com/MEZ901")
+{
+  console.log("Welcome to my GitHub profile!");
+}
+```
+
 <p align="center">
 I'm 1st year student at YouCode school. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and meverage them to solve real-life problems. I'm currently into web development and working on my Algorithms skills.
 </p>
@@ -16,9 +23,6 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=MEZ901&theme=redical">
 </p> 
 
 <h2 align="center">Reach me out on:</h2>
