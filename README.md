@@ -24,7 +24,7 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090398-bd9d5eb5-884b-47e1-88f5-b747478e5107.png" alt="MySql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </p>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/208256106-942bbd2c-8acd-45c1-b3a2-0487440e08f1.png" alt="Visual Studio Code" width="40" height="40"/> </p>
 <h2 align="center">My github stats:</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
@@ -36,8 +36,8 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 
 <h2 align="center">Reach me out on:</h2>
 <p align="center">
-<a href="mailto: issammez44@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mez901/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/issam.mezgueldi/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/issam.mez.58/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="30" width="40" /></a>
+<a href="mailto: issammez44@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/mez901/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.instagram.com/issam.mezgueldi/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://www.facebook.com/issam.mez.58/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="facebook" /></a>
 </p>
