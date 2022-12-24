@@ -2,16 +2,28 @@
 
 ![Cover](https://user-images.githubusercontent.com/112888267/204088153-8e61fc81-5dd0-45cc-8ac9-296bb50825ec.png)
 
-```javascript
-if (location.href == "https://github.com/MEZ901")
-{
-  console.log("Welcome to my GitHub profile!");
-}
-```
 
 <p align="center">
 I'm 1st year student at YouCode school. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and meverage them to solve real-life problems. I'm currently into web development and working on my Algorithms skills.
 </p>
+
+<h2 align="center">About me:</h2>
+ 
+```php
+  <?php
+    class About extends Me{
+      public $name = "Issam Mezgueldi";
+      public $age = 19;
+      public $location = "Tetouan, Morroco";
+      public $education = array(
+        "major" => "web development",
+        "school" => "YouCode"
+      );
+      public $skills = array("Problem soving", "Logical thinking", "Communication");
+      public $interests = array("chess", "football", "music", "Movies");
+    }
+  ?>
+```
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
@@ -25,10 +37,11 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/208256106-942bbd2c-8acd-45c1-b3a2-0487440e08f1.png" alt="Visual Studio Code" width="40" height="40"/> </p>
-<h2 align="center">My github stats:</h2>
+
+ <h2 align="center">My github stats:</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css&theme=radical">
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
