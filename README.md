@@ -41,7 +41,7 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
  <h2 align="center">My github stats:</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css,hack&theme=radical">
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
