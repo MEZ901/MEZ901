@@ -4,7 +4,7 @@
 
 
 <p align="center">
-I'm 1st year student at YouCode school. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and meverage them to solve real-life problems. I'm currently into web development and working on my Algorithms skills.
+As a dedicated and enthusiastic learner, I am always eager to broaden my knowledge and explore different areas of web development. I have a passion for leveraging technology to create innovative solutions and am constantly seeking out new challenges and opportunities to improve my skills. With a focus on web development, I am committed to staying up-to-date on the latest industry trends and tools, with a strong work ethic and a dedication to delivering high-quality results, I am confident that I can contribute to the success of any web development project.
 </p>
 
 <h2 align="center">About me:</h2>
@@ -42,7 +42,7 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
  <h2 align="center">My github stats:</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css,hack,blade,shell&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css,hack,blade,shell,scss&theme=radical">
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
