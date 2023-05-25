@@ -40,7 +40,7 @@ As a dedicated and enthusiastic learner, I am always eager to broaden my knowled
  <h2 align="center">My github stats</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css,hack,blade,shell,scss&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css,hack,blade,shell,scss,php&theme=radical">
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
