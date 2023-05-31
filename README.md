@@ -38,17 +38,22 @@ As a dedicated and enthusiastic learner, I am always eager to broaden my knowled
  </div>
  
  <h2 align="center">My github stats</h2>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&hide=html,c,css,hack,blade,shell,scss,php&theme=radical">
-</p>
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<div align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=MEZ901&show_icons=true&theme=tokyonight&line_height=28&rank_icon=github">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MEZ901&layout=donut&theme=tokyonight">
+</div>
+<div align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</div> 
 
+<h2 align="center">My dev card</h2>
+<div align = "center">
+ <a href="https://app.daily.dev/MEZ901"><img src="https://api.daily.dev/devcards/44578dd2e80c46dcb163e0243685f0d8.png?r=dum" width="300" alt="Issam Mezgueldi's Dev Card"/ </a>
+</div>
+ 
 <h2 align="center">Reach me out on</h2>
-<p align="center">
+<div align="center">
 <a href="mailto: issammez44@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://www.linkedin.com/in/mez901/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://discordapp.com/users/930779979409666048" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="discord" /></a>
-</p>
+</div>
