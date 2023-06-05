@@ -44,7 +44,10 @@ As a dedicated and enthusiastic learner, I am always eager to broaden my knowled
 </div>
 <div align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</div> 
+</div>
+<div align="center">
+ <img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 <h2 align="center">My dev card</h2>
 <div align = "center">
