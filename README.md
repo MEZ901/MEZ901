@@ -7,7 +7,7 @@
 </p>
 
 <div id="badges"  align="center">
- <img src="https://komarev.com/ghpvc/?username=MEZ901" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=MEZ901" alt="Profile Views" /> 
  <img src="https://img.shields.io/github/followers/MEZ901?label=Follow" alt="Github Followers"/>
  <img src="https://img.shields.io/github/stars/MEZ901?affiliations=OWNER%2CCOLLABORATOR" alt="Starts"/> 
 </div>
