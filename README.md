@@ -14,17 +14,20 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
 
 <h2 align="center">About me</h2>
  
-```json
-  {
-   "name": "Issam Mezgueldi",
-   "age": 20,
-   "location": "Tetouan, Morocco",
-   "education": {
-     "major": "web development",
-     "school": "YouCode"
-   },
-   "skills": ["Problem solving", "Logical thinking", "Perseverance"],
-   "interests": ["chess", "football", "music", "Movies"]
+```js
+  class Me extends Person {
+    constructor() {
+     this.name = "Issam Mezgueldi";
+     this.age = new Date().getFullYear() - 2003;
+     this.homeTown = "Tetouan, Morocco";
+     this.education = {
+      major: "web development",
+      school: "YouCode",
+      graduationDate: null
+     };
+     this.skills = ["Problem solving", "Logical thinking", "Perseverance"];
+     this.interests = ["chess", "football", "music", "Movies"];
+    }
   }
 ```
  
