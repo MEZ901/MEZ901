@@ -1,6 +1,6 @@
-![](assets/header.svg)
+<h1 align="center">Hi there 👋</h1>
 
-<h2 align="center">Hi there 👋</h2>
+![Cover](https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg)
 
 <p align="center">
 I'm a junior web developer who loves working with JavaScript and creating cool stuff on the internet. I enjoy making websites look great and ensuring they run smoothly behind the scenes. My goal is to use exciting new tech to build awesome online experiences.
