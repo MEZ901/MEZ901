@@ -1,10 +1,6 @@
-<h1 align="center">Hi, I'm Issam 👋</h1>
+![](assets/header.svg)
 
-<!-- ![Cover](https://user-images.githubusercontent.com/112888267/204088153-8e61fc81-5dd0-45cc-8ac9-296bb50825ec.png) -->
-
-<div align="center">
- <img src="./assets/header.svg" alt="Cover" />
-</div>
+<h2 align="center">Hi there 👋</h2>
 
 <p align="center">
 I'm a junior web developer who loves working with JavaScript and creating cool stuff on the internet. I enjoy making websites look great and ensuring they run smoothly behind the scenes. My goal is to use exciting new tech to build awesome online experiences.
