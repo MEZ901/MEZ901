@@ -15,18 +15,21 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
 <h2 align="center">About me</h2>
  
 ```js
-  class Me extends Person {
+  import { Human } from "earth";
+
+  class Me extends Human {
     constructor() {
-     this.name = "Issam Mezgueldi";
+     super();
+     this.name = "👨‍💻 Issam Mezgueldi";
      this.age = new Date().getFullYear() - 2003;
-     this.homeTown = "Tetouan, Morocco";
+     this.homeTown = "🌍 Tetouan, Morocco";
      this.education = {
-      major: "web development",
-      school: "YouCode",
-      graduationDate: null
+       major: "🚀 Web Development",
+       school: "🏫 YouCode",
+       graduationDate: null,
      };
-     this.skills = ["Problem solving", "Logical thinking", "Perseverance"];
-     this.interests = ["chess", "football", "music", "Movies"];
+     this.skills = ["🧠 Problem Solving", "🤔 Logical Thinking", "🚀 Perseverance"];
+     this.interests = ["♟️ Chess", "⚽ Football", "🎵 Music", "🎬 Movies"];
     }
   }
 ```
