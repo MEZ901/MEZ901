@@ -36,40 +36,69 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
 
 <h2 align="center">My Tech Stack</h2>
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SaSS](https://img.shields.io/badge/-SaSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
-![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira)
-
+ <div align="center">
+  <table>
+    <tr>
+      <th>💻</th>
+      <th>Technology</th>
+    </tr>
+    <tr>
+      <td>LANGUAGES</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>FRONTEND</td>
+      <td>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="React" /></a>
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs" /></a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-SaSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>BACKEND</td>
+      <td>
+        <a href="https://nodejs.org/en/" target="_blahttps://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysqlnk" rel="noreferrer"><img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" alt="NodeJS" /></a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" /></a>
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs" /></a>
+        <a href="https://fastify.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" /></a>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>DATABASE</td>
+      <td>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL" /></a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+        <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
+        <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="Amazon DymanoDB" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>TEST</td>
+      <td>
+        <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest" alt="Jest" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>TOOLS</td>
+      <td>
+        <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="git" /></a>
+        <a href="https://www.github.com/h" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman" alt="Postman" /></a>
+        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /></a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Docker" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
  
