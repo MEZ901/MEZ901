@@ -41,7 +41,6 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
 <h2 align="center">My Tech Stack</h2>
 
  <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
   <table>
     <tr>
       <th>💻</th>
