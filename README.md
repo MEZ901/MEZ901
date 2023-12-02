@@ -41,7 +41,7 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
 <h2 align="center">My Tech Stack</h2>
 
  <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"/>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
   <table>
     <tr>
       <th>💻</th>
@@ -129,6 +129,12 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
  <a href="https://app.daily.dev/MEZ901">
   <img src="https://api.daily.dev/devcards/44578dd2e80c46dcb163e0243685f0d8.png?r=dum" width="300" alt="Issam Mezgueldi's Dev Card" />
  </a>
+</div>
+
+<h2 align="center">Random Dev Quote</h2>
+
+<div align = "center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
  
 <h2 align="center">Reach me out on</h2>
