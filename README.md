@@ -37,6 +37,7 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
 <h2 align="center">My Tech Stack</h2>
 
  <div align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"/>
   <table>
     <tr>
       <th>💻</th>
