@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ![Cover](https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg)
 
 <p align="center">
@@ -13,8 +11,6 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
  <img src="https://img.shields.io/github/followers/MEZ901?label=Follow" alt="Github Followers"/>
  <img src="https://img.shields.io/github/stars/MEZ901?affiliations=OWNER%2CCOLLABORATOR" alt="Starts"/> 
 </div>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">About me</h2>
  
