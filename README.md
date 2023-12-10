@@ -80,7 +80,7 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
       </td>
     </tr>
     <tr>
-      <td>TEST</td>
+      <td>TESTING</td>
       <td>
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="36" height="36" alt="Jest" /></a>
         <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-128x128.png" width="36" height="36" alt="Testing Library" /></a>
