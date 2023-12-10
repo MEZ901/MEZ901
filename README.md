@@ -68,7 +68,7 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
         <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-        <a href="https://fastify.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastify.svg" width="36" height="36" alt="Fastify" /></a>
+        <a href="https://fastify.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/MEZ901/MEZ901/assets/112888267/6a6c9a34-317d-4399-a37e-262b4f5ab56f" width="36" height="36" alt="Fastify" /></a>
       </td>
     </tr>
     <tr>
@@ -83,6 +83,7 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
       <td>TEST</td>
       <td>
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="36" height="36" alt="Jest" /></a>
+        <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-128x128.png" width="36" height="36" alt="Testing Library" /></a>
       </td>
     </tr>
     <tr>
@@ -90,7 +91,7 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
       <td>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-        <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel" /></a>
+        <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MEZ901/MEZ901/assets/112888267/a1974726-55bc-43bc-8e71-e9f8ca8b235e" width="36" height="36" alt="Vercel" /></a>
       </td>
     </tr>
     <tr>
@@ -106,6 +107,7 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
       </td>
     </tr>
   </table>
+
 </div>
  
 <h2 align="center">My github stats</h2>
