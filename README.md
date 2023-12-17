@@ -28,8 +28,13 @@ I'm a junior web developer who loves working with JavaScript and creating cool s
        school: "🏫 YouCode",
        graduationDate: null,
      };
-     this.skills = ["🧠 Problem Solving", "🤔 Logical Thinking", "🚀 Perseverance"];
+     this.skills = ["🧠 Problem Solving", "🤔 Logical Thinking", "📚 Fast Learning"];
      this.interests = ["♟️ Chess", "⚽ Football", "🎵 Music", "🎬 Movies"];
+     this.socialMedia = {
+      instagram: "instagram.com/issam.mezgueldi",
+      linkedin: "linkedin.com/in/mez901",
+      github: "github.com/MEZ901",
+    };
     }
   }
 ```
