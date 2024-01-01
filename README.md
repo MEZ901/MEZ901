@@ -3,14 +3,13 @@
 ![Cover](https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg)
 
 <p align="center">
-I'm a junior web developer who loves working with JavaScript and creating cool stuff on the internet. I enjoy making websites look great and ensuring they run smoothly behind the scenes. My goal is to use exciting new tech to build awesome online experiences.
+I'm a junior web developer who loves working with JavaScript / TypeScript and creating cool stuff on the internet. I enjoy making websites look great and ensuring they run smoothly behind the scenes. My goal is to use exciting new tech to build awesome online experiences.
 </p>
 
-<div id="badges"  align="center">
- <img src="https://komarev.com/ghpvc/?username=MEZ901" alt="Profile Views" /> 
- <img src="https://img.shields.io/github/followers/MEZ901?label=Follow" alt="Github Followers"/>
- <img src="https://img.shields.io/github/stars/MEZ901?affiliations=OWNER%2CCOLLABORATOR" alt="Starts"/> 
-</div>
+<p align="center"> 
+  <br>Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/MEZ901/count.svg?"  />
+</p>
 
 <h2 align="center">About me</h2>
  
