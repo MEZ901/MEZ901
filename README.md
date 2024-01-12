@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
-![Cover](https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg)
+<img src="https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg" alt="Profile Cover" />
 
 <p align="center">
-I'm a junior web developer who loves working with JavaScript / TypeScript and creating cool stuff on the internet. I enjoy making websites look great and ensuring they run smoothly behind the scenes. My goal is to use exciting new tech to build awesome online experiences.
+A passionate software developer with a strong foundation in JavaScript and TypeScript. I am eager to dive into software architecture and cloud technologies, and looking forward to bringing innovative ideas and technical expertise to dynamic teams.
 </p>
 
 <p align="center"> 
@@ -42,7 +42,7 @@ I'm a junior web developer who loves working with JavaScript / TypeScript and cr
 
  <div align="center">
    
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,nestjs,postgresql,docker,aws,jest,git,linux,vscode,markdown&perline=5" />
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,nestjs,postgresql,docker,aws,jest,git,linux,vscode,markdown&perline=5" alt="Tech Stack" />
    
  </div>
  
