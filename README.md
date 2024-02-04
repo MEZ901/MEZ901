@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg" alt="Profile Cover" />
 
 <p align="center">
-A passionate software developer with a strong foundation in JavaScript and TypeScript. I am eager to dive into software architecture and cloud technologies, and looking forward to bringing innovative ideas and technical expertise to dynamic teams.
+Transforming ideas into digital realities with a passion for software development, software architecture, and cloud technologies. Committed to innovation and continuous learning.
 </p>
 
 <p align="center"> 
