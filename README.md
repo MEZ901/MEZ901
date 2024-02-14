@@ -22,11 +22,6 @@ Transforming ideas into digital realities with a passion for software developmen
       this.name = "👨‍💻 Issam Mezgueldi";
       this.age = new Date().getFullYear() - 2003;
       this.homeTown = "🌍 Tetouan, Morocco";
-      this.education = {
-        major: "🚀 Web Development",
-        school: "🏫 YouCode",
-        graduationDate: null,
-      };
       this.skills = ["🧠 Problem Solving", "🤔 Logical Thinking", "📚 Fast Learning"];
       this.interests = ["♟️ Chess", "⚽ Football", "🎵 Music", "🎬 Movies"];
       this.socialMedia = {
