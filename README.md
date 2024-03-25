@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MEZ901/MEZ901/main/assets/header.svg" alt="Profile Cover" />
 
 <p align="center">
-Transforming ideas into digital realities with a passion for software development, software architecture, and cloud technologies. Committed to innovation and continuous learning.
+I am a software developer who has discovered the joy of problem-solving through code.
 </p>
 
 <p align="center"> 
