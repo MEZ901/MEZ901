@@ -23,23 +23,19 @@ I am a software developer who has discovered the joy of problem-solving through 
       this.age = new Date().getFullYear() - 2003;
       this.homeTown = "🌍 Tetouan, Morocco";
       this.skills = ["🧠 Problem Solving", "🤔 Logical Thinking", "📚 Fast Learning"];
-      this.interests = ["♟️ Chess", "⚽ Football", "🎵 Music", "🎬 Movies"];
-      this.socialMedia = {
-        instagram: "instagram.com/issam.mezgueldi",
-        linkedin: "linkedin.com/in/mez901",
-        github: "github.com/MEZ901",
-      };
+      this.interests = ["♟️ Chess", "⚽ Football", "🗣️ Languages", "🎵 Music", "🎬 Movies"];
+      this.languagesSpoken = ["🇲🇦 Arabic", "🇬🇧 English", "🇫🇷 French", "🇪🇸 Spanish"];
     }
   }
 ```
 
-<h2 align="center">💻 My Tech Stack</h2>
+<!--<h2 align="center">💻 My Tech Stack</h2>
 
  <div align="center">
    
    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs,nestjs,postgresql,docker,aws,jest,git,linux,vscode,markdown&perline=5" alt="Tech Stack" />
-   
- </div>
+      
+ </div>-->
  
 <h2 align="center">🌟 My github stats</h2>
 
@@ -49,14 +45,6 @@ I am a software developer who has discovered the joy of problem-solving through 
 </div>
 <div align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MEZ901&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" alt="Streak Stats" />
-</div>
-
-<h2 align="center">📖 My dev card</h2>
-
-<div align = "center">
- <a href="https://app.daily.dev/MEZ901">
-  <img src="https://api.daily.dev/devcards/44578dd2e80c46dcb163e0243685f0d8.png?r=dum" width="300" alt="Issam Mezgueldi's Dev Card" />
- </a>
 </div>
 
 <h2 align="center">💡 Random Dev Quote</h2>
