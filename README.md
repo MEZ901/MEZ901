@@ -24,7 +24,6 @@ I am a software developer who has discovered the joy of problem-solving through 
       this.homeTown = "🌍 Tetouan, Morocco";
       this.skills = ["🧠 Problem Solving", "🤔 Logical Thinking", "📚 Fast Learning"];
       this.interests = ["♟️ Chess", "⚽ Football", "🗣️ Languages", "🎵 Music", "🎬 Movies"];
-      this.languagesSpoken = ["🇲🇦 Arabic", "🇬🇧 English", "🇫🇷 French", "🇪🇸 Spanish"];
     }
   }
 ```
